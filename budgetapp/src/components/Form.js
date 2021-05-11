@@ -55,7 +55,7 @@ console.log(Income__price);
         <RowForm>
 
 <InputDesign type="text" onChange={(e) => setDesc(e.target.value)}  placeholder="Name of Income"></InputDesign>
-<InputDesign type="number" onChange={(e) => setPrice(e.target.value)}  placeholder="Income Price"></InputDesign>
+<InputDesign type="number" onChange={(e) => setPrice(e.target.value)}  placeholder="Income Value"></InputDesign>
 </RowForm>
 
 <RowForm>

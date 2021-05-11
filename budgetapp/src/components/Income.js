@@ -7,6 +7,7 @@ width:500px;
 min-height:70px;
 margin:10px;
 display:flex;
+border-radius:20px;
 align-items:center;
 background-color:#f05454;
 justify-content:space-between;
@@ -28,6 +29,8 @@ color:white;
  align-items:center;
  font-weight:bold;
  color:white;
+ border-radius:20px;
+
  justify-content:center;
  padding:0 20px;
  background-color:#30475e;
